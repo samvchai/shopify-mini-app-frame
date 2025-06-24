@@ -13,7 +13,7 @@ export const metadata = {
         action: {
           type: "launch_frame",
           name: "shopify-mini-app",
-          url: process.env.NEXT_PUBLIC_APP_URL || "https://shopify-mini-app-frame.vercel.app",
+          url: process.env.NEXT_PUBLIC_APP_URL || "https://shopify-mini-app-frame-humankind.vercel.app",
           splashImageUrl: "https://placehold.co/600x400/000000/FFFFFF/png?text=Loading+Shop...",
           splashBackgroundColor: "#000000"
         }
