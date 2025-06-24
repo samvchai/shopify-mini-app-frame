@@ -7,7 +7,7 @@ export const metadata = {
   other: {
     'fc:frame': JSON.stringify({
       version: "next",
-      imageUrl: "https://placehold.co/600x400/000000/FFFFFF/png?text=Shop+with+USDC",
+      imageUrl: "https://i.imgur.com/hXDEUFC.jpeg",
       button: {
         title: "Shop Now!",
         action: {
