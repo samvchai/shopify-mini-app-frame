@@ -1,0 +1,23 @@
+{
+  "name": "shopify-mini-app-frame",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@cloudflare/workers-types": "^4.20250620.0",
+    "@farcaster/frame-sdk": "^0.0.64",
+    "@vercel/kv": "^3.0.0",
+    "next": "15.3.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}
